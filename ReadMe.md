@@ -6,16 +6,6 @@ This project is really simple, and mostly just my learning Scala.
 
 ## How to run the project
 
-### Inside docker
-
-Prerequisites: A working version of docker.
-
-```
-
-```
-
-#### On your machine
-
 Prerequisites: You have on your machine: pnpm, Scala, sbt
 
 ```
